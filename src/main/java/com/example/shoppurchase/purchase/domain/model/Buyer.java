@@ -11,6 +11,6 @@ import javax.persistence.Embeddable;
 @Embeddable
 @Data
 public class Buyer {
-    private MembershipLevelType membershipLevelType;
+    //private MembershipLevelType membershipLevelType;
     private String name;
 }
