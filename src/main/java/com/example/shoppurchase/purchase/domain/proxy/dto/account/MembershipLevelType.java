@@ -1,4 +1,4 @@
-package com.example.shoppurchase.purchase.domain.proxy.dto;
+package com.example.shoppurchase.purchase.domain.proxy.dto.account;
 
 public enum MembershipLevelType {
 
