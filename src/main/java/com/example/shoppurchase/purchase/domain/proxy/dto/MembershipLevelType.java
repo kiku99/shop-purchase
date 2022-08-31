@@ -1,4 +1,8 @@
 package com.example.shoppurchase.purchase.domain.proxy.dto;
 
-public class MembershipLevelType {
+public enum MembershipLevelType {
+
+    VIP,
+    GOLD,
+    SILVER
 }
